@@ -30,8 +30,8 @@ Bot Python ini digunakan untuk **mengotomatiskan aktivitas di OasisWorld MiniApp
 ## 📥 Cara Pakai
 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/oasisworld-bot.git
-cd oasisworld-bot
+git clone https://github.com/danzkyxyz/Oasis-World-Mine-OE.git
+cd Oasis-World-Mine-OE
 ```
 2. Install Library Python
 ```bash
